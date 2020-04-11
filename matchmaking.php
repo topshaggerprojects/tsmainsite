@@ -12,6 +12,11 @@
 <div class="main">
 <form>
 	<input type="text" name="player1">
+	<input type="text" name="player2">
+	<input type="text" name="player3">
+	<input type="text" name="player4">
+	<input type="text" name="player5">
+	<input type="submit" name="Submit>
 </form>
 </div>
 </body>

@@ -44,3 +44,9 @@
 .slidecontainer {
 	width: 100%;
 }
+
+.matchmaker {
+	margin-left: 160px;
+	padding: 0px 10px;
+	font-family: "Ubuntu Mono";
+}

@@ -9,7 +9,7 @@
 	<a href="contact.php"><i class="fa fa-fw fa-home"></i>Contact Us</a>
 	<a href="matchmaking.php"><i class="fa fa-fw fa-home"></i>Scrim Matchmaker</a>
 </div>
-<div class="main">
+<div class="matchmaker">
 <form>
 	 Player 1:<input type="text" name="player1"><br>
 	 Player 2:<input type="text" name="player2"><br>
